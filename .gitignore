@@ -1,0 +1,7 @@
+.env
+teacher_model/
+models/
+run_log.txt
+*.zip
+__pycache__/
+.ipynb_checkpoints/
